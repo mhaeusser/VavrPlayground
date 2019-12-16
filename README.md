@@ -1,2 +1,2 @@
 # VavrPlayground
-Vavr experiments
+[Vavr](https://www.vavr.io) experiments
